@@ -8,5 +8,6 @@
     <title>DLSP-Library</title>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo base_url().'assets/css/materialize.css' ?>">
+    <link rel="stylesheet" href="<?php echo base_url().'assets/css/style.css' ?>">
 </head>
 <body>
